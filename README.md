@@ -97,4 +97,4 @@ The server will print its PID. Keep it running.
 ## 👩‍💻 Author
 
 **Sanaa Zeroual** — [@sanaa-zeroual](https://github.com/sanaa-zeroual)  
-Student at **42** (szeroual@student.42.fr)
+
